@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vamsisaikrishna18
 - 👀 I’m interested in Full stack developement and Web3
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : vamsiawesome319@gmail.com
 
 <!---
 vamsisaikrishna18/vamsisaikrishna18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
